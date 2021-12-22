@@ -1,0 +1,8 @@
+{
+  "name": "encore un rhum",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "29e5a2cb"
+}
